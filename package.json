@@ -1,0 +1,32 @@
+{
+	"name": "docpad-plugin-taxonomy",
+	"version": "2.1.0",
+	"description": "Adds support for basic taxonomy to DocPad",
+	"keywords": [
+		"docpad",
+		"docpad-plugin",
+		"documents",
+		"tags",
+		"relations",
+		"taxonomy"
+	],
+	"author": "Delapouite <delapouite@gmail.com> (http://delapouite.com)",
+	"bugs": {
+		"url": "https://github.com/Delapouite/docpad-plugin-taxonomy/issues"
+	},
+	"repository" : {
+		"type": "git",
+		"url": "https://github.com/Delapouite/docpad-plugin-taxonomy.git"
+	},
+	"engines" : {
+		"node": ">=0.10"
+	},
+	"peerDependencies": {
+        "docpad": ">=6.46 <7"
+    },
+    "devDependencies": {
+    	"coffee-script": "~1.6.2",
+    	"docpad": ">=6.46 <7"
+    },
+	"main": "./out/taxonomy.plugin.js"
+}
