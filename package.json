@@ -1,6 +1,6 @@
 {
 	"name": "docpad-plugin-taxonomy",
-	"version": "2.1.0",
+	"version": "2.1.1",
 	"description": "Adds support for basic taxonomy to DocPad",
 	"keywords": [
 		"docpad",
@@ -22,11 +22,11 @@
 		"node": ">=0.10"
 	},
 	"peerDependencies": {
-        "docpad": ">=6.46 <7"
-    },
-    "devDependencies": {
-    	"coffee-script": "~1.6.2",
-    	"docpad": ">=6.46 <7"
-    },
+		"docpad": ">=6.46 <7"
+	},
+	"devDependencies": {
+		"coffee-script": "~1.6.2",
+		"docpad": ">=6.46 <7"
+	},
 	"main": "./out/taxonomy.plugin.js"
 }

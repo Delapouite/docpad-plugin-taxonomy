@@ -4,7 +4,7 @@ Adds support for basic taxonomy to [DocPad](https://docpad.org)
 ## Install
 
 ```
-npm install --save docpad-plugin-taxonomy
+docpad install taxonomy
 ```
 
 ## Warning
